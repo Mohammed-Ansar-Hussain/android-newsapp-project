@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "73512556866",
+    "firebase_url": "https://newsapp-d5b50.firebaseio.com",
+    "project_id": "newsapp-d5b50",
+    "storage_bucket": "newsapp-d5b50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73512556866:android:b8eada1979d554df7590db",
+        "android_client_info": {
+          "package_name": "com.ansar.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73512556866-vgnmitbebilua33f35h0r07ib9pqk9oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqp6SWyjb_lGKRfXOC4oF86mzDMv9eK8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73512556866-vgnmitbebilua33f35h0r07ib9pqk9oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
